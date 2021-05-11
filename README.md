@@ -10,7 +10,7 @@
 
     <img src="https://user-images.githubusercontent.com/68250058/117825401-3675d680-b267-11eb-8983-b33e12c1c91b.png" width="20" height="20" /> linkedin:         https://www.linkedin.com/in/ben-nasr-basma-84655018b/
     
-    My Email : bennasrbasma97@gmail.com
+   <img src="https://user-images.githubusercontent.com/68250058/117826139-d6cbfb00-b267-11eb-8366-e5f7056c4ff1.png" width="20" height="20" /> Email : bennasrbasma97@gmail.com
 - 😄 Ask me about soft skills
 - Fun Fact : I can't stop eating always hungry 🤷🤣
 
