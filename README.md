@@ -1,5 +1,5 @@
 - 👋 Hi, there glad to meet you.
-  My name is Basma Ben Nasr https://github.githubassets.com/images/icons/emoji/unicode/1f469.png
+  My name is Basma Ben Nasr ![image](https://user-images.githubusercontent.com/68250058/117819764-c4e75980-b261-11eb-80c9-80933652f62d.png)
   I'm a new software developper who is eager to learn more everyday https://github.githubassets.com/images/icons/emoji/unicode/1f604.png
 - https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png I’m currently learning React and Angular as a front end technology.
 - 🌱 I’m currently working on improving my software developpement technical skills.
