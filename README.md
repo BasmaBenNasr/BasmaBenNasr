@@ -1,11 +1,15 @@
 - 👋 Hi, there glad to meet you.
   My name is Basma Ben Nasr 👩‍💼
+  
+ https://user-images.githubusercontent.com/68250058/117822980-e72ea680-b264-11eb-91a7-4779ac854f3d.png
+
    I'm a new software developper who is eager to learn more everyday 👩‍🎓
 - 🌱 I’m currently learning React and Angular as a front end technology .
 - 🌱 I’m currently working on improving my software developpement technical skills 📖💻.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me ==> you can find me on linkedin: https://www.linkedin.com/in/ben-nasr-basma-84655018b/
-     My Email : bennasrbasma97@gmail.com
+    
+    My Email : bennasrbasma97@gmail.com
 - 😄 Ask me about soft skills
 - Fun Fact : I can't stop eating always hungry 🤷🤣
 
