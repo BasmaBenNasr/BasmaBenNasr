@@ -1,7 +1,8 @@
 - 👋 Hi, there glad to meet you.
   My name is Basma Ben Nasr 👩‍💼
   
- https://user-images.githubusercontent.com/68250058/117822980-e72ea680-b264-11eb-91a7-4779ac854f3d.png
+![image](https://user-images.githubusercontent.com/68250058/117823164-147b5480-b265-11eb-8cb0-5f99c3b4a3d1.png)
+
 
    I'm a new software developper who is eager to learn more everyday 👩‍🎓
 - 🌱 I’m currently learning React and Angular as a front end technology .
